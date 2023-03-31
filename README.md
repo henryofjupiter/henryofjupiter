@@ -1,7 +1,6 @@
 [![MasterHead](https://images.app.goo.gl/QHE6ZmaBHc53tE6k8)]
 <h2 align="center">Hi 👋, I'm Henry</h2>
 <h4 align="center">Computer Science & Software Engineering student</h4>
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDFhMDI5YmVhNWM4OTllYTE3NDBiYWM0M2JlOWQ1YWJlOGRjNGVmNCZjdD1n/u2pmTWUi0MXjyrMaVj/giphy.gif”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=henryofjupiter&label=Profile%20views&color=0e75b6&style=flat" alt="henryofjupiter" /> </p>
 
