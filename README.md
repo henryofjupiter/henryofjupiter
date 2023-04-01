@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Henry</h1>
 <h3 align="center">Computer Science & Software Engineering student</h3>
 <hr>
-<p><img align = "right" src= "https://github.com/henryofjupiter/henryofjupiter/blob/main/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966.gif" width= "600" height= "420"/></p>
+<p><img align = "right" src= "https://raw.githubusercontent.com/henryofjupiter/henryofjupiter/d26898b5953705b2594e3890055b7b5db7e1b898/hoj.gif" width= "600" height= "420"/></p>
 <div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=henryofjupiter&label=Profile%20views&color=0e75b6&style=flat" alt="henryofjupiter" /> </p>
 <h3 align="left">Connect with me:</h3>
