@@ -3,7 +3,9 @@
 <hr>
 <p><img align = "right" src= "https://raw.githubusercontent.com/henryofjupiter/henryofjupiter/d26898b5953705b2594e3890055b7b5db7e1b898/hoj.gif" width= "600" height= "420"/></p>
 <div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=henryofjupiter&label=Profile%20views&color=0e75b6&style=flat" alt="henryofjupiter" /> </p>
+  
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=henryofjupiter&label=Profile%20views&color=0e75b6&style=flat" alt="henryofjupiter" /> </p> -->
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/henryofjupiter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="henryofjupiter" height="30" width="40" /></a>
